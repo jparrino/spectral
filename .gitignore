@@ -1,0 +1,21 @@
+# Python caches and generated package files
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+
+# Notebook backups
+.ipynb_checkpoints/
+
+# Local environments and account settings
+.venv/
+.env
+.env.*
+!.env.example
+/.aws/
+/.codex/
+/.agents/

@@ -1,0 +1,5 @@
+data/*
+!data/.gitkeep
+scan_output*/
+plots/
+continuum_output/
